@@ -6,7 +6,7 @@ Proyecto educativo que recrea el clásico **Etch-A-Sketch** utilizando un Arduin
 
 ## 📸 Vista del proyecto
 
-![Diagrama de conexiones](diagrama_conexiones.png)
+![Diagrama de conexiones](https://github.com/uriel0x00ff/etch-a-sketch-arduino/blob/main/Diagrama%20de%20conexiones.png)
 
 ---
 
