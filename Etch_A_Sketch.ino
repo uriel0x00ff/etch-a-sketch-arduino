@@ -23,14 +23,14 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // ================= MPU =================
 MPU6050 mpu;
-#define SHAKE_THRESHOLD 28000. // Modificar el valor para ajustar la sencibilidad del borrado al agitar el circuito
+#define SHAKE_THRESHOLD 28000 // Modificar el valor para ajustar la sencibilidad del borrado al agitar el circuito
 
 // ================= POTENCIÓMETROS =================
 #define POT_X A0
 #define POT_Y A1
 
 int  x = SCREEN_WIDTH / 2;
-int  y = SCREEN_HEIGHT / 2;;
+int  y = SCREEN_HEIGHT / 2;
 
 // ================= SETUP =================
 void setup() {
